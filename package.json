@@ -1,0 +1,28 @@
+{
+  "name": "typed-octicons",
+  "version": "0.0.0",
+  "description": "TND",
+  "keywords": [
+    "type",
+    "octicons"
+  ],
+  "main": "library/source/index.js",
+  "types": "library/source/index.d.ts",
+  "scripts": {
+  },
+  "bugs": {
+    "url": "https://github.com/wraith13/typed-octicons/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wraith13/typed-octicons.git"
+  },
+  "author": "wraith13",
+  "license": "BSL-1.0",
+  "devDependencies": {
+    "@types/mocha": "^5.2.6",
+    "@types/node": "^11.9.4",
+    "mocha": "^5.2.0",
+    "typescript": "^3.3.3"
+  }
+}
