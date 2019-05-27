@@ -29,8 +29,11 @@
         "pretty": false,
         "noEmitOnError": true,
         "outDir": "library",
-        "rootDir": "."
+        "resolveJsonModule": true
     },
+    "files": [
+        "source/index.ts",
+    ],
     "exclude": [
         "library"
     ]
