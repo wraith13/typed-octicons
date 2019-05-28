@@ -1,10 +1,20 @@
 # typed-octicons
 
-TBD
+`typed-octicons` is a typed wrapper of [GitHub Octicons](https://www.npmjs.com/package/octicons) for TypeScript.
+
+## Install
+
+```
+$ npm install typed-octicons --save
+```
 
 ## How to use
 
-TBD
+```typescript
+import octicons from "typed-octicons";
+
+const svg = octicons["bell"].toSVG();
+```
 
 ## How to build
 

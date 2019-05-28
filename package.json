@@ -1,8 +1,7 @@
 {
   "name": "typed-octicons",
-  "version": "0.0.2",
-  "preview": true,
-  "description": "TND",
+  "version": "1.0.0",
+  "description": "Typed wrapper of GitHub Octicons for TypeScript.",
   "keywords": [
     "type",
     "octicons"
