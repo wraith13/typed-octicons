@@ -5,9 +5,7 @@
         "declaration": true,
         "target": "es5",
         "lib": [
-            "es6",
-            "dom",
-            "scripthost"
+            "es6"
         ],
         "noImplicitAny": false,
         "strictNullChecks": false,
