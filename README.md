@@ -19,9 +19,13 @@ console.log(svg); // <svg version="1.1" width="14" height="16" viewBox="0 0 14 1
 const makeOcticonSVG = (octicon: Octicon | keyof typeof octicons): SVGElement =>
 {
     const div = document.createElement("div");
-    div.innerHTML = "string" === typeof octicon ?
-        octicons[octicon].toSVG():
-        octicon.toSVG();
+    div.innerHTML =
+        (
+            "string" === typeof octicon ?
+                octicons[octicon]:
+                octicon
+        )
+        .toSVG();
     return <SVGElement>div.firstChild;
 };
 
