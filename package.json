@@ -1,6 +1,6 @@
 {
   "name": "typed-octicons",
-  "version": "9.0.0",
+  "version": "9.0.1",
   "description": "Typed wrapper of GitHub Octicons for TypeScript.",
   "keywords": [
     "type",

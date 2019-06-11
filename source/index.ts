@@ -25,5 +25,5 @@ export interface Octicon
     options: Options;
     toSVG: () => string;
 }
-export const octicons = <{ [key in keyof typeof octiconsSource]:Octicon }>require("octicons");
+export const octicons = <{ [key in keyof typeof octiconsSource]:Octicon }>require("@primer/octicons");
 export default octicons;
