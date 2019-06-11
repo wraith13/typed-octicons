@@ -1,4 +1,4 @@
-import * as octiconsSource from "../node_modules/octicons/build/data.json";
+import * as octiconsSource from "../node_modules/@primer/octicons/build/data.json";
 export interface Figma
 {
     id: string;

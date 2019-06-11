@@ -1,6 +1,6 @@
 # typed-octicons
 
-`typed-octicons` is a typed wrapper of [GitHub Octicons](https://www.npmjs.com/package/octicons) for TypeScript.
+`typed-octicons` is a typed wrapper of [GitHub Octicons](https://www.npmjs.com/package/@primer/octicons) for TypeScript.
 
 ## Install
 
