@@ -1,6 +1,6 @@
 {
   "name": "typed-octicons",
-  "version": "9.3.1",
+  "version": "9.4.0",
   "description": "Typed wrapper of GitHub Octicons for TypeScript.",
   "keywords": [
     "type",
@@ -23,6 +23,6 @@
     "typescript": "^3.3.3"
   },
   "dependencies": {
-    "@primer/octicons": "^9.3.1"
+    "@primer/octicons": "^9.4.0"
   }
 }
